@@ -6,5 +6,5 @@
 
 Quick Links:
 - [Python file](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.py)
-- [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
+- [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.ipynb)
   *Jupyter notebook version recommended for better view, kindly reload if it fails to appear on the first try.
