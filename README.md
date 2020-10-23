@@ -7,4 +7,5 @@
 Quick Links:
 - [Python file](https://github.com/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.py)
 - [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.ipynb)
-  *Jupyter notebook version recommended for better view, kindly reload if it fails to appear on the first try.
+
+*Kindly download/reload if notebook fails to appear in the first try. Alternatively, a .html or .py version is also available for download in the repo.
