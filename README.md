@@ -5,7 +5,10 @@
 - Achieved 91% recall in identifying customers who churned.
 
 Quick Links:
+- [Read project online](https://nbviewer.jupyter.org/github/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.ipynb) 
+*Recommended for viewing
+
+Alternatively, these files are also available to view/ download in the repo.
 - [Python file](https://github.com/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.py)
 - [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.ipynb)
 
-*Kindly download/reload if notebook fails to appear in the first try. Alternatively, a .html or .py version is also available for download in the repo.
