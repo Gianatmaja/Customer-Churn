@@ -1,4 +1,4 @@
-# Customer-Churn
+# Customer Churn
 This project involves analysing churn dataset to identify customers who will potentially churn. We will begin by performing EDA on the dataset. Then, we 
 will train different models on it and perform hyperparameter tuning, before concluding our findings.
 
